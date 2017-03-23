@@ -1,0 +1,7 @@
+public Class ClaseA{
+public int x;
+
+public ClaseA(){
+x = 0;
+ }
+}
